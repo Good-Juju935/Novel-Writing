@@ -1,6 +1,6 @@
 var currentPage = 1;
 var minPage = 1;
-var maxPage = 1;
+var maxPage = 3;
 
 var cPath = ''
 
