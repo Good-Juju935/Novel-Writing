@@ -1,0 +1,42 @@
+.drop-scroll {
+    height: 100px;
+    overflow: auto;
+}
+
+body {
+    background-color: #0d0d0d;
+    color: #6f6e6f;
+}
+
+h1 {
+    color: #930001;
+}
+
+.rp-con {
+    text-align: center;
+}
+
+.rp-rp {
+    font-family: "Arial Black";
+    background: -webkit-linear-gradient(#930001, #c50505);
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 75px;
+    font-style: normal;
+}
+
+.rp-twd {
+    font-family: "Arial Black";
+    background: -webkit-linear-gradient(#cbdef5, #dfeaf7);
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 75px;
+    font-style: normal;
+}
+
+.button-format {
+    background-color: #930001;
+    color: #dfeaf7;
+}

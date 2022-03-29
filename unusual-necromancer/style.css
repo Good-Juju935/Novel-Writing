@@ -11,3 +11,21 @@ body {
 h1 {
     color: rgb(225, 192, 0);
 }
+
+.un-con {
+    text-align: center;
+}
+
+.un-u {
+    font-size: 100px;
+    text-shadow: -2px -2px #000000;
+    color: #FFFFFF;
+    font-style: normal;
+}
+
+.un-n {
+    font-size: 100px;
+    text-shadow: 2px 2px #000000;
+    color: #000000;
+    font-style: normal;
+}
